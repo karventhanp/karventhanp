@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Karventhan, a Frontend Engineer from Chennai
+## I'm Karventhan, a Frontend Engineer
 
 I build production web apps with **React, Next.js and TypeScript**, plus **Node.js** on the backend. 4.5+ years of experience.
 
